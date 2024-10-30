@@ -1,0 +1,17 @@
+{
+    "name": "byrst/byrst-woocommerce-plugin",
+    "description": "Plugin to enable AR viewing of Byrst models in WooCommerce.",
+    "autoload": {
+        "files": ["vendor/cmb2/cmb2/init.php"]
+    },
+    "authors": [
+        {
+            "name": "Manuel Ramirez Coronel",
+            "email": "ra_cm@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "cmb2/cmb2": "v2.10.1"
+    }
+}

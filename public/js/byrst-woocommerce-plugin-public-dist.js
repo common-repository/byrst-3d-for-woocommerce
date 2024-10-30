@@ -1,0 +1,1 @@
+!function(o){"use strict";o((function(){o("#dialog").dialog({autoOpen:!1,modal:!0,width:"auto",create:function(i,t){o(this).css("maxWidth","660px")}}),o("#byrst_woocommerce_plugin_btn").click((function(){o("#dialog").dialog("open")}))}))}(jQuery);
